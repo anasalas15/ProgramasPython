@@ -3,13 +3,11 @@
 - 38191942@uaz.com.mx
 
 ## Actividad 1
-- Programa 1
-- Programa 2
-- Programa 3 
+- Instalacion de entorno 
 
-## Actividad 2 
-- Programa 5
-- Programa 6 
+## Actividad 2
+- p001-hola-mundo
+- p002-area-circulo
+- p003-area-triangulo
+- p004-paga-trabajador
 
-## Actividad 3
-- Programa 7
