@@ -31,3 +31,8 @@
 - p017-convertir-temperaturas
 - p018-paga-trabajador-v2
 
+## Actividad 5
+- p019-verificar-suma2
+- p020-ley-de-newton
+- p021-aceptar-estudiante
+- p022-tipo-angulo
