@@ -44,3 +44,10 @@
 - p026-numeros-romanos
 - p027-calculo-de-notas
 - p028-aceptar-estudiante-v2 
+
+## Actividad 6
+- p029-numeros-1-100
+- p030-numeros-100-1
+- p031-numeros-1-200-10
+- p032-numeros-suma-100
+- p033-conteo-numeros
