@@ -51,3 +51,10 @@
 - p031-numeros-1-200-10
 - p032-numeros-suma-100
 - p033-conteo-numeros
+
+## Actividad 7
+- p034-tabla-conversion
+- p035-conjetura-collatz
+- p036-tabla-multiplicar-v1
+- p037-tabla-multiplicar-v2
+- p038-adivina-numero
