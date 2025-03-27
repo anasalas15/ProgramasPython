@@ -1,3 +1,5 @@
+#Primer examen parcial
+#Ana Teresa Rosales Salas
 # Se lleva el control de la inscripción a un evento académico de la Universidad Patito. Se especifica: Tipo de usuario, paquete y cantidad.
 
 print('Universidad Patito SA de CV')
@@ -64,11 +66,3 @@ while True:
 
 print(f'\nImporte Total de la Venta: {total:.2f}')
 print('Proceso Terminado ')
-
-
-
-        
-
-    
-
-
