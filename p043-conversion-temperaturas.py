@@ -7,11 +7,11 @@ while(True):
     tempf = float(input('Ingresa la temperatura final en grados centigrados ? '))
 
     centigrados = tempi
-    farenheit = ( centigrados * 9/5 ) + 32
 
-    
-
-
+    while centigrados <= tempf:
+         farenheit = ( centigrados * 9/5 ) + 32
+         print(f'{centigrados:.2f} Grados Centigrados = {farenheit:.2f} Grados Farenheit')
+         centigrados += 1
 
     if input('Deseas Continuar (S/N) ? ').upper() == 'N': break
 
