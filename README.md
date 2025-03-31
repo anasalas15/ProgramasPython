@@ -69,3 +69,12 @@
 
 ## Primer examen parcial
 - p045-primer-examen-parcial
+
+## Actividad 8
+- p046-numeros-1-100  
+- p047-numeros-100-1  
+- p048-arriba-abajo
+- p049-suma-pares-impares
+- p050-suma-numeros
+- p051-multiplos-suma
+- p052-base-exponente
