@@ -78,3 +78,11 @@
 - p050-suma-numeros
 - p051-multiplos-suma
 - p052-base-exponente
+
+## Actividad 9 
+- p053-factorial-v1
+- p054-tabla-multiplicar-v1
+- p055-tablas-multiplicar-v2
+- p056-piramide-caracter
+- p057-factorial-numeros-v2
+- p058-combina-colores
