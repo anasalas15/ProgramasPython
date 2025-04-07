@@ -94,3 +94,10 @@
 - p061-secuencia-numeros-1
 - p062-secuencia-numeros-2
 - p063-secuencia-terminos-1
+
+## Actividad 10
+- p064–acceder-lista
+- p065–cambiar-lista
+- p066–agregar-lista
+- p067–remover-lista
+- p068–iterar-lista
