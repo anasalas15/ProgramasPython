@@ -101,3 +101,10 @@
 - p066–agregar-lista
 - p067–remover-lista
 - p068–iterar-lista
+
+## Actividad 11
+- p069-procesar-calificaciones
+- p070-suma-listas
+- p071-dia-paga
+- p072-nombres-edades
+- p073-listas-aleatorias
