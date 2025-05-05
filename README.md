@@ -123,3 +123,10 @@
 - p082-nombres y edades
 - p083-conversion-medida
 - p084-conversion-moneda
+
+## Actividad 13
+- p058-procesar-pizza 
+- p086-lista-dicc-auto
+- p087-lista-dicc-estudiante
+- p088-cliente-productos
+- p089-area-figuras

@@ -1,4 +1,5 @@
-# Convercion de medidas de metros a km, m, cm y mm.
+# Convercion de medidas de metros a km, m, cm y mm
+
 import os ; os.system('cls')
 
 conv = {
