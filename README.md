@@ -130,3 +130,11 @@
 - p087-lista-dicc-estudiante
 - p088-cliente-productos
 - p089-area-figuras
+
+## Tarea 6
+- p090-crear-acceder-diccionario
+- p091-modificar-diccionario
+- p092-agregar-diccionario
+- p093-eliminar-diccionario
+- p094-procesar-diccionario
+- p095-contar-caracteres
