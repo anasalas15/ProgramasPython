@@ -142,3 +142,7 @@
 ## Actividad 14
 - p096-trabajando-conjuntos
 - p097-operaciones-conjuntos
+
+## Tarea 7
+- p098-personas
+- p099-numeros
