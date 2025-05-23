@@ -147,7 +147,8 @@
 - p098-personas
 - p099-numeros
 
-## 
+## Segundo examen parcial
+- p100-segundo-examen-parcial
 
 ## Actividad 15
 - p101-funcion
